@@ -24,7 +24,7 @@
 
   <!-- Quick Social Badges -->
   <p align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=12131C&labelColor=12131C" alt="Email" /></a>
+    <a href="mailto:shubhankarsahu82@gmail.com"><img src="https://img.shields.io/badge/Email-shubhankarsahu82%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=12131C&labelColor=12131C" alt="Email" /></a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-4FACFE?style=for-the-badge&logo=linkedin&logoColor=12131C&labelColor=12131C" alt="LinkedIn" /></a>
     <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-F355DA?style=for-the-badge&logo=googlechrome&logoColor=12131C&labelColor=12131C" alt="Portfolio" /></a>
   </p>
@@ -88,7 +88,7 @@
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
         </p>
-        <a href="https://github.com/YOUR_USERNAME/saas-analytics-dashboard"><strong>Explore Project →</strong></a>
+        <a href="https://github.com/shubhankarsahu09/saas-analytics-dashboard"><strong>Explore Project →</strong></a>
       </td>
       <td width="50%" valign="top">
         <h4>⚡ Immersive 3D Product Platform (Full Stack)</h4>
@@ -99,7 +99,7 @@
           <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white" />
           <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
         </p>
-        <a href="https://github.com/YOUR_USERNAME/3d-product-platform"><strong>Explore Project →</strong></a>
+        <a href="https://github.com/shubhankarsahu09/3d-product-platform"><strong>Explore Project →</strong></a>
       </td>
     </tr>
   </table>
@@ -153,5 +153,5 @@ Injecting premium creative touches using GSAP animations and Three.js 3D assets.
   <br/>
   
   <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F2FE&style=flat-square&label=VISITORS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=shubhankarsahu09&color=00F2FE&style=flat-square&label=VISITORS" alt="Visitor Count" />
 </div>
