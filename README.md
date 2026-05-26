@@ -14,12 +14,12 @@
   <img src="portfolio_banner.png" alt="Creative Web Developer Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
 
   <!-- Animated Typing Headline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+a+Creative+Web+Developer;Crafting+Immersive+3D+Web+Experiences;Specializing+in+Fluid+GSAP+Scroll+Animations;1%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+a+Full+Stack+Web+Developer;Building+Scalable+%26+High-Performance+Web+Apps;Crafting+Premium+UIs+with+3D+WebGL+Touches;Specializing+in+React%2C+Node.js%2C+and+Modern+Web+Tech" alt="Typing SVG" />
   </a>
 
   <p align="center" style="font-family: 'Outfit', sans-serif; font-size: 1.1rem; color: #8F9CAE; max-width: 650px; margin: 15px auto 25px auto; line-height: 1.6;">
-    I bridge the gap between imagination and browser rendering. Specializing in high-performance <strong>3D experiences</strong>, <strong>WebGL</strong>, and complex <strong>scroll-driven animations</strong> that leave a lasting impression.
+    I build robust, secure, and visually stunning <strong>full-stack web applications</strong>. I bridge the gap between complex backend architectures and high-performance, interactive frontend experiences.
   </p>
 
   <!-- Quick Social Badges -->
@@ -34,10 +34,10 @@
 ---
 
 ### 🚀 What I Do Best
-- **Creative Frontend**: Developing state-of-the-art websites using **React**, **Next.js**, and highly responsive layouts.
-- **3D & WebGL Landscapes**: Crafting interactive 3D worlds, product configurators, and interactive landing pages using **Three.js** and **Spline**.
-- **Cinematic Scrolling**: Transforming static content into a dynamic storytelling journey using **GSAP (GreenSock)**, **ScrollTrigger**, and custom CSS parallax effects.
-- **Performance-First Code**: Optimizing textures, shaders, and animations to maintain **60 FPS** on both desktop and mobile devices.
+- **Full Stack Architecture**: Designing end-to-end applications with secure APIs, robust backend logic, and structured data environments.
+- **Modern Frontend Engines**: Crafting state-of-the-art interactive user interfaces using **React**, **TypeScript**, and **Tailwind CSS**.
+- **WebGL & Creative Touches**: Integrating premium interactive WebGL scenes, product customizers, and fluid animations using **Three.js** and **GSAP**.
+- **Performance & Scalability**: Optimizing server performance, API response times, and frontend asset delivery to maintain lightning-fast loading speeds and 60 FPS interfaces.
 
 ---
 
@@ -47,37 +47,27 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <strong>✨ 3D & Animation</strong>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-        <br/>
-        <img src="https://img.shields.io/badge/GSAP-GreenSock-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
-        <br/>
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
-        <br/>
-        <img src="https://img.shields.io/badge/Spline-3D-FF5E5B?style=flat-square&logo=spline&logoColor=white" alt="Spline" />
-      </td>
-      <td align="center" width="33%">
-        <strong>💻 Frontend Core</strong>
+        <strong>💻 Frontend Engine</strong>
         <br/><br/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <br/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <br/>
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <br/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
       </td>
       <td align="center" width="33%">
-        <strong>🎨 Design & Systems</strong>
+        <strong>⚙️ Backend Engine</strong>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-        <br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      </td>
+      <td align="center" width="33%">
+        <strong>🚀 DevOps & Creative</strong>
+        <br/><br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <br/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
         <br/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/GSAP-GreenSock-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
       </td>
     </tr>
   </table>
@@ -91,24 +81,25 @@
   <table border="0">
     <tr>
       <td width="50%" valign="top">
-        <h4>🌌 Holographic 3D Product Concept</h4>
-        <p>A high-performance 3D shoe configurator featuring custom shaders, physical lighting models, and camera controls in Three.js.</p>
+        <h4>🌌 Premium SaaS Analytics Dashboard (Full Stack)</h4>
+        <p>A comprehensive real-time SaaS platform featuring secure authentication, automated metric reporting, and complex data charting.</p>
         <p>
-          <img src="https://img.shields.io/badge/Three.js-black?style=flat-square" />
-          <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
         </p>
-        <a href="https://github.com/YOUR_USERNAME/3d-configurator"><strong>Explore Project →</strong></a>
+        <a href="https://github.com/YOUR_USERNAME/saas-analytics-dashboard"><strong>Explore Project →</strong></a>
       </td>
       <td width="50%" valign="top">
-        <h4>⚡ Immersive Parallax Storytelling Portal</h4>
-        <p>An award-winning editorial site with layered scroll-driven animations, SVG morphing, and fluid layout transitions utilizing GSAP ScrollTrigger.</p>
+        <h4>⚡ Immersive 3D Product Platform (Full Stack)</h4>
+        <p>An interactive product catalog incorporating high-performance 3D WebGL previews, dynamic shopping APIs, and custom GSAP camera transitions.</p>
         <p>
-          <img src="https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=flat-square" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
         </p>
-        <a href="https://github.com/YOUR_USERNAME/scroll-storytelling"><strong>Explore Project →</strong></a>
+        <a href="https://github.com/YOUR_USERNAME/3d-product-platform"><strong>Explore Project →</strong></a>
       </td>
     </tr>
   </table>
@@ -119,55 +110,32 @@
 ### 🛠️ Interactive Workflow: How I Bring Concepts to Life
 
 <details>
-<summary><b>📐 Phase 1: Interactive Storyboarding & Asset Prep</b></summary>
+<summary><b>📐 Phase 1: Architecture Planning & API Design</b></summary>
 <p>
-Every stunning web experience starts in Figma. I storyboard key scroll states, plan 3D asset integration (compressing high-poly .GLTF/GLB models for web consumption), and establish structural typography.
+I outline robust data structures, map out secure API endpoints, define system architectures, and ensure high-level plans account for edge cases and clean routing.
 </p>
 </details>
 
 <details>
-<summary><b>🌀 Phase 2: Constructing 3D Worlds & WebGL</b></summary>
+<summary><b>⚙️ Phase 2: Secure Backend Engineering & Core Routing</b></summary>
 <p>
-Using Three.js, React Three Fiber (R3F), or Spline, I establish cameras, environmental lighting, shadow maps, and custom fragment shaders to ensure the 3D elements look premium and load instantly.
+Building robust server layers using Node.js, integrating secure token authentication, managing data serialization, and optimizing server handling protocols.
 </p>
 </details>
 
 <details>
-<summary><b>🎬 Phase 3: Choreographing Scroll & Motion</b></summary>
+<summary><b>🎨 Phase 3: High-Performance Frontend & State Syncing</b></summary>
 <p>
-With GSAP and ScrollTrigger, I synchronize scrolling velocity to camera movements, HTML text translations, and shader properties, creating a single unified, cinematic animation timeline.
+Creating beautiful and fully responsive UI views in React, establishing solid state managers, integrating real-time frontend hooks, and styling with premium typography and variables.
 </p>
 </details>
 
 <details>
-<summary><b>⚡ Phase 4: Extreme Performance Tuning</b></summary>
+<summary><b>⚡ Phase 4: Creative WebGL Polish & Performance Tuning</b></summary>
 <p>
-I profile rendering performance using Chrome DevTools, optimize draw calls, apply mesh instancing, lazy-load assets, and configure debounced resize events to maintain a buttery-smooth 60 FPS experience.
+Injecting premium creative touches using GSAP animations and Three.js 3D assets. Optimizing API response payloads, lazy-loading assets, and achieving perfect performance audit scores.
 </p>
 </details>
-
----
-
-### 📊 GitHub Insights & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=F355DA&text_color=8F9CAE" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8F9CAE" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" width="100%">
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=F355DA&currStreakNum=00F2FE" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -185,5 +153,5 @@ I profile rendering performance using Chrome DevTools, optimize draw calls, appl
   <br/>
   
   <!-- Visitor Count -->
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F2FE&style=flat-square&label=VISITORS" alt="Visitor Count" />
 </div>
