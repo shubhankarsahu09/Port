@@ -25,7 +25,7 @@
   <!-- Quick Social Badges -->
   <p align="center">
     <a href="mailto:shubhankarsahu82@gmail.com"><img src="https://img.shields.io/badge/Email-shubhankarsahu82%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=12131C&labelColor=12131C" alt="Email" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-4FACFE?style=for-the-badge&logo=linkedin&logoColor=12131C&labelColor=12131C" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=12131C&labelColor=12131C" alt="Instagram" /></a>
     <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-F355DA?style=for-the-badge&logo=googlechrome&logoColor=12131C&labelColor=12131C" alt="Portfolio" /></a>
   </p>
 

@@ -27,7 +27,7 @@ Open the `README.md` file in this folder and replace the following placeholder v
 | :--- | :--- |
 | `YOUR_USERNAME` | Your exact GitHub username (used for stats cards, links, and visitor count). |
 | `YOUR_NAME` | Your real name or professional handle. |
-| `YOUR_LINKEDIN` | Your LinkedIn username. |
+| `YOUR_INSTAGRAM` | Your Instagram username. |
 | `your.email@example.com` | Your professional email address. |
 | `YOUR_PORTFOLIO.com` | Your live portfolio website URL. |
 
